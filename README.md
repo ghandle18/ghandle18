@@ -3,6 +3,10 @@
 Aspire **AI/ML-oriented Data Enthusiast** actively seeking chances to leverage technical skills via internships, research assistantship, & networking with **world-class professionals** to make **innovative changes towards our future world**. Rooted as a **Passionate Entrepreneur** looking for **potential collaborations in Tech**!
 I focus on **clean code, scalable solutions, and continuous learning.**
 
+In the vast diverse disciplines within Computer Science, I'm drawn to the future path of being a future Data Analyst, Machine Learning/ AI Engineer while pursing other vertexes as a personal interest. 
+
+Entrepreneurship & Business Administration are concurrent in my learning radar too, supporting a smooth transition from my tech-skills to profound, hand-driven & impactful products that contribute positively industry-wide & general-public-wide.
+
 - 🎓 Computer Science at University of Illinois at Chicago
 - 💻 Interests: Machine Learning, Data Analyst, Web Development, Artificial Intelligence
 - 🌱 Currently learning: R Programming for Data Science, React, Data Structures
