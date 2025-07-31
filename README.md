@@ -24,8 +24,8 @@ Research (Labview, LattePanda, Arduinos), Jupyter Notebook, Google Colaboratory,
 | Project | Description | Tech |
 |--------|-------------|------|
 | [**Project 1**](https://devpost.com/software/agrihub-farming-for-sustainability) | Worked with teammates in ideation, front-end tasks, back-end within hackathon project utilizing AI, prompt engineering to build a crop recommendation web-based system, integrating geospatial data to connect local farmers with verified service providers, promoting sustainable farming to meet global’s rising food demand] | HTML, CSS, JavaScript, MongoDB, APIs |
-| [**Project 2**](GitHub Repo URL) | Developed a sentiment analysis program utilizing text processing techniques to analyze and classify the sentiment of words and reviews (positive - negative) from Yelp dataset, improving sentiment classification accuracy | Python |
-| [**Project 3**](GitHub Repo URL) | Analyzing World Coffee Data for Product Research Empowerment | Python |
+| [**Project 2**] | Developed a sentiment analysis program utilizing text processing techniques to analyze and classify the sentiment of words and reviews (positive - negative) from Yelp dataset, improving sentiment classification accuracy | Python |
+| [**Project 3**] | Analyzing World Coffee Data for Product Research Empowerment | Python |
 
 ---
 
