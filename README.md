@@ -38,8 +38,8 @@ System (Linux, Vim, Gdb, Gprof, Bash, Unix), Version Control (Git & GitHub), Aut
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/hdang18/
-- **Portfolio:** to-be-updated
+- **LinkedIn:** https://www.linkedin.com/in/ghandle18/
+- **Portfolio:** https://www.github.com/vamaridle-1802/
 - **Email:** ldang7@uic.edu | ghandle18@gmail.com
 
 ---
