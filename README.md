@@ -10,7 +10,7 @@ Entrepreneurship & Business Administration are concurrent in my learning radar t
 - 🎓 Computer Science at University of Illinois at Chicago
 - 💻 Interests: Software Engineering, Machine Learning, Data Analyst, Web Development, Artificial Intelligence
 - 🌱 Currently learning: System Programming, R Programming for Data Science, React
-- 📫 Reach me: https://www.linkedin.com/in/hdang18/
+- 📫 Reach me: https://www.linkedin.com/in/ghandle18/
 ---
 
 ### Technical Skills
