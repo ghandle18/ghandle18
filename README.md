@@ -1,4 +1,4 @@
-# Han Dang | SWE - ML/AI | Sophomore in CS @ UIC
+# Han Dang | SWE - ML/AI | Sophomore | CS @ UIC
 
 Aspire **SWE - AI/ML-oriented Data Enthusiast** actively seeking chances to leverage technical skills via internships, research assistantship, & networking with **world-class professionals** to make **innovative changes towards our future world**. Rooted as a **Passionate Entrepreneur** looking for **potential collaborations in Tech**!
 I focus on **clean code, scalable solutions, and continuous learning.**
