@@ -31,7 +31,7 @@ Research (ImageJ, Google Earth Engine, Labview, LattePanda, Arduino), Robotics (
 |--------|-------------|------|
 | [**Proj 1**](https://devpost.com/software/agrihub-farming-for-sustainability) | Worked with teammates in ideation, front-end tasks, back-end within hackathon project utilizing AI, prompt engineering to build a crop recommendation web-based system, integrating geospatial data to connect local farmers with verified service providers, promoting sustainable farming to meet global’s rising food demand] | HTML, CSS, JavaScript, MongoDB, APIs |
 | [**Proj 2**](https://github.com/ghandle18/CS111-ClassProject-ElectoralVotesAnalysis) | Developed a sentiment analysis program utilizing text processing techniques to analyze and classify the sentiment of words and reviews (positive - negative) from Yelp dataset, improving sentiment classification accuracy | Python |
-| **Proj 3** | Analyzing World Coffee Data for Product Research Empowerment | Python | Self-initiative Project conducting a Kaggle World Coffee Dataset serving cross-nation Market Agricultural Product Research - Exploratory Data Analysis, Classification, Regression Models. |
+| [**Proj 3**](https://docs.google.com/document/d/19Ju64LarHxtMJh_6_oXnZh1l73AUsTafQpdZOENs__E/edit?tab=t.0) | Analyzing World Coffee Data for Product Research Empowerment | Python | Self-initiative Project conducting a Kaggle World Coffee Dataset serving cross-nation Market Agricultural Product Research - Exploratory Data Analysis, Classification, Regression Models. |
 
 ---
 
