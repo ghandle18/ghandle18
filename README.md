@@ -17,8 +17,10 @@ Entrepreneurship & Business Administration are concurrent in my learning radar t
 - **Languages:** C, C++, Python, R, HTML, JavaScript
 - **Libraries & Frameworks:** NumPy, SciPy, MatPlotlib, Pandas, Scikit-learn, Seaborn, CSS, React, Node.js  
 - **Software & Tool:**
-System (Linux, Vim, Gdb, Gprof, Bash, Unix), Version Control (Git & GitHub), Automata (JFLAP), Jupyter Notebook, Google Colaboratory, Research (Labview, LattePanda, Arduinos), ImageJ, Google Earth Engine, Robotics (Scratch, GaraSTEM), Design (Figma, Canva)
-- **Other:** LaTeX, MarkDown, VS-Code, RStudio
+System (Unix, Vim, Gdb, Gprof Bash, Linux, TypeScript),
+Version Control (Git & GitHub), Automata (JFLAP),
+Editor/IDE (LaTeX, MarkDown, VS-Code, RStudio, Jupyter Notebook, Google Collab),
+Research (ImageJ, Google Earth Engine, Labview, LattePanda, Arduino), Robotics (Scratch, GaraSTEM), Design (Figma, Canva).
 
 ---
 
@@ -28,7 +30,7 @@ System (Linux, Vim, Gdb, Gprof, Bash, Unix), Version Control (Git & GitHub), Aut
 | Project | Description | Tech |
 |--------|-------------|------|
 | [**Proj 1**](https://devpost.com/software/agrihub-farming-for-sustainability) | Worked with teammates in ideation, front-end tasks, back-end within hackathon project utilizing AI, prompt engineering to build a crop recommendation web-based system, integrating geospatial data to connect local farmers with verified service providers, promoting sustainable farming to meet global’s rising food demand] | HTML, CSS, JavaScript, MongoDB, APIs |
-| **Proj 2** | Developed a sentiment analysis program utilizing text processing techniques to analyze and classify the sentiment of words and reviews (positive - negative) from Yelp dataset, improving sentiment classification accuracy | Python |
+| **Proj 2**(https://github.com/ghandle18/CS111-ClassProject-ElectoralVotesAnalysis) | Developed a sentiment analysis program utilizing text processing techniques to analyze and classify the sentiment of words and reviews (positive - negative) from Yelp dataset, improving sentiment classification accuracy | Python |
 | **Proj 3** | Analyzing World Coffee Data for Product Research Empowerment | Python | Self-initiative Project conducting a Kaggle World Coffee Dataset serving cross-nation Market Agricultural Product Research - Exploratory Data Analysis, Classification, Regression Models. |
 
 ---
@@ -39,7 +41,7 @@ System (Linux, Vim, Gdb, Gprof, Bash, Unix), Version Control (Git & GitHub), Aut
 
 ### 📫 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/ghandle18/
-- **Portfolio:** https://www.github.com/vamaridle-1802/
+- **Portfolio:** https://www.github.com/ghandle18/
 - **Email:** ldang7@uic.edu | ghandle18@gmail.com
 
 ---
