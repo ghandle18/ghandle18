@@ -45,3 +45,6 @@ Research (ImageJ, Google Earth Engine, Labview, LattePanda, Arduino), Robotics (
 - **Email:** ldang7@uic.edu | ghandle18@gmail.com
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eagrundy/eagrundy/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
