@@ -29,6 +29,7 @@ Research (ImageJ, Google Earth Engine, Labview, LattePanda, Arduino), Robotics (
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [🏆 Haven - Neurodivergent Navigation App](https://devpost.com/software/haven-kj3o4q) | **WildHacks 2026 Winner** (1st Place Community Track, 2nd Place Claude AI Sponsor Track) @ Northwestern University's largest hackathon. Built an adaptive navigation and daily support app for neurodivergent individuals - features real-time Computer Vision sensory detection (crowd, noise, brightness via TensorFlow.js), AI Voice Assistant check-ins, and smart rerouting to help users avoid sensory overload. Contributed as Designer, Video Editor, and Front-End Developer | React, Next.js, TensorFlow.js, Google Maps, Gemini, OpenAI, Claude, ElevenLabs, Supabase, Python |
 | [FinBud AI - Financial Intelligence Platform](https://github.com/ghandle18/FinDeep/blob/main/README.md) | Built AI-driven financial infrastructure including ML pipelines for quantitative trading and risk analysis using Python, TensorFlow, Flask, React, LangChain, and RAG; optimized system performance (43% lower API latency) and deployed scalable microservices with Docker and AWS to support 10K+ daily transactions | Python, TensorFlow, Flask, React, LangChain, RAG, Docker, AWS, REST APIs |
 | [AgriHub – Farming for Sustainability](https://devpost.com/software/agrihub-farming-for-sustainability) | Worked with teammates in ideation, front-end tasks, back-end within hackathon project utilizing AI, prompt engineering to build a crop recommendation web-based system, integrating geospatial data to connect local farmers with verified service providers, promoting sustainable farming to meet global’s rising food demand | HTML, CSS, JavaScript, MongoDB, APIs |
 | [Electoral Votes Sentiment Analyzer](https://github.com/ghandle18/CS111-ClassProject-ElectoralVotesAnalysis) | Developed a sentiment analysis program utilizing text processing techniques to analyze and classify the sentiment of words and reviews (positive - negative) from Yelp dataset, improving sentiment classification accuracy | Python |
@@ -47,7 +48,7 @@ Research (ImageJ, Google Earth Engine, Labview, LattePanda, Arduino), Robotics (
 - **LinkedIn:** https://www.linkedin.com/in/ghandle18/
 - **Portfolio:** https://www.github.com/ghandle18/
 - **Email:** ldang7@uic.edu | ghandle18@gmail.com
-
+- **Devpost Gallery:** https://devpost.com/ghandle18
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/eagrundy/eagrundy/output/github-contribution-grid-snake.svg" alt="snake">
